@@ -15,11 +15,11 @@ of cloud-based solutions provided by Microsoft Azure.
 
 ## Tools and resources utilized
 The tools and resources utilized for setting up Azure Sentinel include:
-➢ Microsoft Azure Portal for managing Azure resources.
-➢ Azure Sentinel Documentation for guidance.
-➢ Azure Resource Manager (ARM) Templates for automation.
-➢ Data Connectors for ingesting logs.
-➢ Custom Connectors for integrating with external sources.
-➢ Security Analytics Rules for defining detection logic.
-➢ Azure Monitor for collecting telemetry data.
-➢ Azure Active Directory for monitoring authentication events.
+1. Microsoft Azure Portal for managing Azure resources.
+2. Azure Sentinel Documentation for guidance.
+3. Azure Resource Manager (ARM) Templates for automation.
+4. Data Connectors for ingesting logs.
+5. Custom Connectors for integrating with external sources.
+6. Security Analytics Rules for defining detection logic.
+7. Azure Monitor for collecting telemetry data.
+8. Azure Active Directory for monitoring authentication events.
