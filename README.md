@@ -11,3 +11,15 @@ and enable proactive incident response within the Azure cloud environment. This
 initiative aligns with contemporary cybersecurity best practices, ensuring comprehensive
 protection against evolving cyber threats while leveraging the scalability and flexibility
 of cloud-based solutions provided by Microsoft Azure.
+
+
+## Tools and resources utilized
+The tools and resources utilized for setting up Azure Sentinel include:
+➢ Microsoft Azure Portal for managing Azure resources.
+➢ Azure Sentinel Documentation for guidance.
+➢ Azure Resource Manager (ARM) Templates for automation.
+➢ Data Connectors for ingesting logs.
+➢ Custom Connectors for integrating with external sources.
+➢ Security Analytics Rules for defining detection logic.
+➢ Azure Monitor for collecting telemetry data.
+➢ Azure Active Directory for monitoring authentication events.
