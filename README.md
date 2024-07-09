@@ -23,3 +23,5 @@ The tools and resources utilized for setting up Azure Sentinel include:
 6. Security Analytics Rules for defining detection logic.
 7. Azure Monitor for collecting telemetry data.
 8. Azure Active Directory for monitoring authentication events.
+
+![Alt text](https://github.com/xspatrian/honeypot-vm/blob/main/screenshots/honeypot-dashboard.png)
