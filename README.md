@@ -30,7 +30,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 [honeypot_report.pdf](https://github.com/xspatrian/honeypot-vm/blob/main/honeypot_report.pdf)
 
 ## World map of incoming attacks after 24 hours (geodata) 
-![Alt text](https://github.com/xspatrian/honeypot-vm/blob/main/screenshots/honeypot-dashboard.png)
+![Alt text](https://github.com/xspatrian/honeypot-vm/blob/main/screenshots/dashboard-final.png)
 
 
 
